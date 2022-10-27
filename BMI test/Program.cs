@@ -6,10 +6,10 @@ namespace BMI_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Inter Your Height: ");
+            Console.WriteLine("Enter Your Height: ");
             var Height = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Inter Your Weight: ");
+            Console.WriteLine("Enter Your Weight: ");
             var Weight = Convert.ToDouble(Console.ReadLine());
 
             var bmi = Weight / Math.Pow(Height / 100, 2);
