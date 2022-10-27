@@ -6,7 +6,7 @@ namespace Integer_to_Roman
     {
         static void Main(string[] args)
         {
-            Console.Write("inter number : ");
+            Console.Write("Enter number : ");
             double num = Convert.ToDouble(Console.ReadLine());
 
             while (num >= 1000)
