@@ -1,0 +1,13 @@
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\bin\Debug\netcoreapp3.1\BmiCliVersion.exe
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\bin\Debug\netcoreapp3.1\BmiCliVersion.deps.json
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\bin\Debug\netcoreapp3.1\BmiCliVersion.runtimeconfig.json
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\bin\Debug\netcoreapp3.1\BmiCliVersion.runtimeconfig.dev.json
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\bin\Debug\netcoreapp3.1\BmiCliVersion.dll
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\bin\Debug\netcoreapp3.1\BmiCliVersion.pdb
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\obj\Debug\netcoreapp3.1\BmiCliVersion.csprojAssemblyReference.cache
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\obj\Debug\netcoreapp3.1\BmiCliVersion.AssemblyInfoInputs.cache
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\obj\Debug\netcoreapp3.1\BmiCliVersion.AssemblyInfo.cs
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\obj\Debug\netcoreapp3.1\BmiCliVersion.csproj.CoreCompileInputs.cache
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\obj\Debug\netcoreapp3.1\BmiCliVersion.dll
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\obj\Debug\netcoreapp3.1\BmiCliVersion.pdb
+C:\Users\Darkness\Desktop\C#\BmiCliVersion\obj\Debug\netcoreapp3.1\BmiCliVersion.genruntimeconfig.cache

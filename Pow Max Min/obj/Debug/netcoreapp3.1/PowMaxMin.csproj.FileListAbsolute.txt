@@ -1,0 +1,13 @@
+C:\Users\Darkness\Desktop\C#\PowMaxMin\bin\Debug\netcoreapp3.1\PowMaxMin.exe
+C:\Users\Darkness\Desktop\C#\PowMaxMin\bin\Debug\netcoreapp3.1\PowMaxMin.deps.json
+C:\Users\Darkness\Desktop\C#\PowMaxMin\bin\Debug\netcoreapp3.1\PowMaxMin.runtimeconfig.json
+C:\Users\Darkness\Desktop\C#\PowMaxMin\bin\Debug\netcoreapp3.1\PowMaxMin.runtimeconfig.dev.json
+C:\Users\Darkness\Desktop\C#\PowMaxMin\bin\Debug\netcoreapp3.1\PowMaxMin.dll
+C:\Users\Darkness\Desktop\C#\PowMaxMin\bin\Debug\netcoreapp3.1\PowMaxMin.pdb
+C:\Users\Darkness\Desktop\C#\PowMaxMin\obj\Debug\netcoreapp3.1\PowMaxMin.csprojAssemblyReference.cache
+C:\Users\Darkness\Desktop\C#\PowMaxMin\obj\Debug\netcoreapp3.1\PowMaxMin.AssemblyInfoInputs.cache
+C:\Users\Darkness\Desktop\C#\PowMaxMin\obj\Debug\netcoreapp3.1\PowMaxMin.AssemblyInfo.cs
+C:\Users\Darkness\Desktop\C#\PowMaxMin\obj\Debug\netcoreapp3.1\PowMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\Darkness\Desktop\C#\PowMaxMin\obj\Debug\netcoreapp3.1\PowMaxMin.dll
+C:\Users\Darkness\Desktop\C#\PowMaxMin\obj\Debug\netcoreapp3.1\PowMaxMin.pdb
+C:\Users\Darkness\Desktop\C#\PowMaxMin\obj\Debug\netcoreapp3.1\PowMaxMin.genruntimeconfig.cache

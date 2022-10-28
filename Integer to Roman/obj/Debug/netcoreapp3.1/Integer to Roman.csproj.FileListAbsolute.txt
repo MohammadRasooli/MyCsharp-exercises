@@ -1,0 +1,13 @@
+C:\Users\Darkness\Desktop\C#\Integer to Roman\bin\Debug\netcoreapp3.1\Integer to Roman.exe
+C:\Users\Darkness\Desktop\C#\Integer to Roman\bin\Debug\netcoreapp3.1\Integer to Roman.deps.json
+C:\Users\Darkness\Desktop\C#\Integer to Roman\bin\Debug\netcoreapp3.1\Integer to Roman.runtimeconfig.json
+C:\Users\Darkness\Desktop\C#\Integer to Roman\bin\Debug\netcoreapp3.1\Integer to Roman.runtimeconfig.dev.json
+C:\Users\Darkness\Desktop\C#\Integer to Roman\bin\Debug\netcoreapp3.1\Integer to Roman.dll
+C:\Users\Darkness\Desktop\C#\Integer to Roman\bin\Debug\netcoreapp3.1\Integer to Roman.pdb
+C:\Users\Darkness\Desktop\C#\Integer to Roman\obj\Debug\netcoreapp3.1\Integer to Roman.csprojAssemblyReference.cache
+C:\Users\Darkness\Desktop\C#\Integer to Roman\obj\Debug\netcoreapp3.1\Integer to Roman.AssemblyInfoInputs.cache
+C:\Users\Darkness\Desktop\C#\Integer to Roman\obj\Debug\netcoreapp3.1\Integer to Roman.AssemblyInfo.cs
+C:\Users\Darkness\Desktop\C#\Integer to Roman\obj\Debug\netcoreapp3.1\Integer to Roman.csproj.CoreCompileInputs.cache
+C:\Users\Darkness\Desktop\C#\Integer to Roman\obj\Debug\netcoreapp3.1\Integer to Roman.dll
+C:\Users\Darkness\Desktop\C#\Integer to Roman\obj\Debug\netcoreapp3.1\Integer to Roman.pdb
+C:\Users\Darkness\Desktop\C#\Integer to Roman\obj\Debug\netcoreapp3.1\Integer to Roman.genruntimeconfig.cache

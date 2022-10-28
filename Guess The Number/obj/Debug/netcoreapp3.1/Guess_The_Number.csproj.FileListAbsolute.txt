@@ -1,0 +1,13 @@
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\bin\Debug\netcoreapp3.1\Guess_The_Number.exe
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\bin\Debug\netcoreapp3.1\Guess_The_Number.deps.json
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\bin\Debug\netcoreapp3.1\Guess_The_Number.runtimeconfig.json
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\bin\Debug\netcoreapp3.1\Guess_The_Number.runtimeconfig.dev.json
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\bin\Debug\netcoreapp3.1\Guess_The_Number.dll
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\bin\Debug\netcoreapp3.1\Guess_The_Number.pdb
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\obj\Debug\netcoreapp3.1\Guess_The_Number.csprojAssemblyReference.cache
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\obj\Debug\netcoreapp3.1\Guess_The_Number.AssemblyInfoInputs.cache
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\obj\Debug\netcoreapp3.1\Guess_The_Number.AssemblyInfo.cs
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\obj\Debug\netcoreapp3.1\Guess_The_Number.csproj.CoreCompileInputs.cache
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\obj\Debug\netcoreapp3.1\Guess_The_Number.dll
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\obj\Debug\netcoreapp3.1\Guess_The_Number.pdb
+C:\Users\Darkness\Desktop\C#\Guess_The_Number\obj\Debug\netcoreapp3.1\Guess_The_Number.genruntimeconfig.cache
