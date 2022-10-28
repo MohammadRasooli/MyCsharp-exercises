@@ -31,7 +31,7 @@ namespace Calculator
                         symbol = Console.ReadLine().ToLower();
                         while (symbol != "y" && symbol != "n")
                         {
-                            Console.WriteLine("An error has occurred. Please only use (y or n)");
+                            Console.WriteLine("Please only use (y or n)");
                             symbol = Console.ReadLine().ToLower();
                         }
                     }
@@ -63,7 +63,7 @@ namespace Calculator
                         symbol = Console.ReadLine().ToLower();
                         while (symbol != "y" && symbol != "n")
                         {
-                            Console.WriteLine("An error has occurred. Please only use (y or n)");
+                            Console.WriteLine("Please only use (y or n)");
                             symbol = Console.ReadLine().ToLower();
                         }
                         switch (symbol)
