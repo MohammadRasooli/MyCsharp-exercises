@@ -82,7 +82,7 @@ namespace Calculator
             }
             catch
             {
-                Console.WriteLine("Your input must be a number!");
+                Console.WriteLine("An error has occurred!");
             }
         }
         public static void add(double n1, double n2)
