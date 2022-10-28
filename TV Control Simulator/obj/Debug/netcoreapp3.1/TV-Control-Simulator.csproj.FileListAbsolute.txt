@@ -1,0 +1,13 @@
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\bin\Debug\netcoreapp3.1\TV-Control-Simulator.exe
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\bin\Debug\netcoreapp3.1\TV-Control-Simulator.deps.json
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\bin\Debug\netcoreapp3.1\TV-Control-Simulator.runtimeconfig.json
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\bin\Debug\netcoreapp3.1\TV-Control-Simulator.runtimeconfig.dev.json
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\bin\Debug\netcoreapp3.1\TV-Control-Simulator.dll
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\bin\Debug\netcoreapp3.1\TV-Control-Simulator.pdb
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\obj\Debug\netcoreapp3.1\TV-Control-Simulator.csprojAssemblyReference.cache
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\obj\Debug\netcoreapp3.1\TV-Control-Simulator.AssemblyInfoInputs.cache
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\obj\Debug\netcoreapp3.1\TV-Control-Simulator.AssemblyInfo.cs
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\obj\Debug\netcoreapp3.1\TV-Control-Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\obj\Debug\netcoreapp3.1\TV-Control-Simulator.dll
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\obj\Debug\netcoreapp3.1\TV-Control-Simulator.pdb
+C:\Users\Darkness\Desktop\C#\TV-Control-Simulator\obj\Debug\netcoreapp3.1\TV-Control-Simulator.genruntimeconfig.cache

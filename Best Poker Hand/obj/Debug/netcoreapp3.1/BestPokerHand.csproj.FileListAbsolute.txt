@@ -1,0 +1,13 @@
+C:\Users\Darkness\Desktop\C#\BestPokerHand\bin\Debug\netcoreapp3.1\BestPokerHand.exe
+C:\Users\Darkness\Desktop\C#\BestPokerHand\bin\Debug\netcoreapp3.1\BestPokerHand.deps.json
+C:\Users\Darkness\Desktop\C#\BestPokerHand\bin\Debug\netcoreapp3.1\BestPokerHand.runtimeconfig.json
+C:\Users\Darkness\Desktop\C#\BestPokerHand\bin\Debug\netcoreapp3.1\BestPokerHand.runtimeconfig.dev.json
+C:\Users\Darkness\Desktop\C#\BestPokerHand\bin\Debug\netcoreapp3.1\BestPokerHand.dll
+C:\Users\Darkness\Desktop\C#\BestPokerHand\bin\Debug\netcoreapp3.1\BestPokerHand.pdb
+C:\Users\Darkness\Desktop\C#\BestPokerHand\obj\Debug\netcoreapp3.1\BestPokerHand.csprojAssemblyReference.cache
+C:\Users\Darkness\Desktop\C#\BestPokerHand\obj\Debug\netcoreapp3.1\BestPokerHand.AssemblyInfoInputs.cache
+C:\Users\Darkness\Desktop\C#\BestPokerHand\obj\Debug\netcoreapp3.1\BestPokerHand.AssemblyInfo.cs
+C:\Users\Darkness\Desktop\C#\BestPokerHand\obj\Debug\netcoreapp3.1\BestPokerHand.csproj.CoreCompileInputs.cache
+C:\Users\Darkness\Desktop\C#\BestPokerHand\obj\Debug\netcoreapp3.1\BestPokerHand.dll
+C:\Users\Darkness\Desktop\C#\BestPokerHand\obj\Debug\netcoreapp3.1\BestPokerHand.pdb
+C:\Users\Darkness\Desktop\C#\BestPokerHand\obj\Debug\netcoreapp3.1\BestPokerHand.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Darkness\Desktop\C#\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.exe
+C:\Users\Darkness\Desktop\C#\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.deps.json
+C:\Users\Darkness\Desktop\C#\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.runtimeconfig.json
+C:\Users\Darkness\Desktop\C#\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.runtimeconfig.dev.json
+C:\Users\Darkness\Desktop\C#\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.dll
+C:\Users\Darkness\Desktop\C#\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.pdb
+C:\Users\Darkness\Desktop\C#\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.csprojAssemblyReference.cache
+C:\Users\Darkness\Desktop\C#\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.AssemblyInfoInputs.cache
+C:\Users\Darkness\Desktop\C#\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.AssemblyInfo.cs
+C:\Users\Darkness\Desktop\C#\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.csproj.CoreCompileInputs.cache
+C:\Users\Darkness\Desktop\C#\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.dll
+C:\Users\Darkness\Desktop\C#\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.pdb
+C:\Users\Darkness\Desktop\C#\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.genruntimeconfig.cache
